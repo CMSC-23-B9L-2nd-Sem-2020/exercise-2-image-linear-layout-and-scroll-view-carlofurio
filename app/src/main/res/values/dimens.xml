@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pad">10dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="header_text_size">25sp</dimen>
+    <dimen name="char_text_size">30sp</dimen>
+    <dimen name="desc_text_size">20sp</dimen>
+    <dimen name="image_margin">20dp</dimen>
+</resources>

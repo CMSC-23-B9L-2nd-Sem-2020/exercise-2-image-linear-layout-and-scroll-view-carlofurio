@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/header"
+        android:text="@string/app_header"
+        style="@style/header_style" />
+
+    <ImageView
+        android:id="@+id/character_image"
+        style="@style/image_style"
+        android:layout_width="351dp"
+        android:layout_height="213dp"
+        android:src="@drawable/spongebob_squarepants" />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/start" />
+
+    <Button
+        android:id="@+id/retry_button"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/retry" />
+
+    <TextView
+        android:id="@+id/character_name"
+        style="@style/char_name_style" />
+
+    <ScrollView
+        android:id="@+id/bio_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/description"
+            android:text="@string/scroll_view"
+            style="@style/desc_style" />
+
+    </ScrollView>
+
+</LinearLayout>

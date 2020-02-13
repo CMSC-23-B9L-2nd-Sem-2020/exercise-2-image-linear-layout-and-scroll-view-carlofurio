@@ -1,0 +1,125 @@
+<resources>
+    <!--    labels resource-->
+    <string name="app_name">exer2_madi_b9l</string>
+    <string name="start">START</string>
+    <string name="retry">RETRY</string>
+    <string name="app_header"><b><i>Which Spongebob Squarepants character are you?</i></b></string>
+    <string name="scroll_view">Find out which Spongebob Squarepant character are you!</string>
+    <string name="start_header"><i>You are:</i></string>
+
+    <!--    character names resource-->
+    <string name="spongebob_characters">Spongebob characters</string>
+    <string name="gary">Gary</string>
+    <string name="larry_the_lobster">Larry</string>
+    <string name="spongebob">Spongebob</string>
+    <string name="cinderella_name">Cinderella</string>
+    <string name="mr_crab">Mr. Crab</string>
+    <string name="mrs_puff">Mrs. Puff</string>
+    <string name="patrick">Patrick</string>
+    <string name="pearl">Pearl</string>
+    <string name="plankton">Plankton</string>
+    <string name="sandy">Sandy</string>
+    <string name="squidward">Squidward</string>
+
+
+    <!--    descriptions resource (per character)-->
+    <!--    descriptions were taken from "https://disney.fandom.com/wiki/The_Disney_Wiki"-->
+
+    <string name="gary_des">
+        Gary the Snail (voiced by Tom Kenny) is SpongeBobs pet sea snail who lives with him in
+        their pineapple home and vocalizes like a cat. Despite only communicating through meows,
+        other characters can understand and talk to him. Depicted as a level-headed character,
+        Gary often serves as a voice of reason for SpongeBob and solves problems that his owner
+        cannot. He has a pink shell that is impractically spacious on the inside.
+    </string>
+
+    <string name="larry_des">
+        Larry the Lobster (usually voiced by Mr. Lawrence and voiced by Bill Fagerbakke for a line
+        in "MuscleBob BuffPants") is a lobster bodybuilder and workout fanatic who lifts weights.
+        He is usually seen at Goo Lagoon alongside Scooter. He first appears in "Ripped Pants".
+    </string>
+
+    <string name="spongebob_des">
+        SpongeBob SquarePants (voiced by Tom Kenny) is a yellow anthropomorphic sea sponge who
+        usually wears brown short pants, a white collared shirt, and a red tie. He lives in a
+        pineapple house and is employed as a fry cook at a fast food restaurant called the
+        Krusty Krab. He diligently attends Mrs. Puff\'s Boating School but has never passed;
+        his lack of a driver\'s license is a running gag throughout the series. He is relentlessly
+        optimistic and enthusiastic toward his job and his friends. SpongeBob\'s hobbies include
+        catching jellyfish, blowing bubbles, playing with his best friend Patrick, and
+        unintentionally irritating his neighbor Squidward. He first appears in "Help Wanted".
+    </string>
+
+    <string name="mr_crab_des">
+        Eugene Krabs (voiced by Clancy Brown) is a red crab who owns and operates the Krusty Krab
+        restaurant where SpongeBob works. He is self-content, cunning, and obsessed with the value
+        and essence of money. He lives in an anchor with his teenage daughter Pearl, who is a
+        whale. He dislikes spending money but will go to great lengths to make Pearl happy.
+        He tends to worry more about his riches than about the needs of his employees.
+        Having served in the navy, he loves sailing, whales, sea shanties, and talking
+        like a pirate.
+    </string>
+
+    <string name="mrs_puff_des">
+        Mrs. Puff is SpongeBob/s paranoid driving teacher and the owner of the town boating school,
+        which is similar to a driver\'s education facility. She would like nothing more than to pass
+        SpongeBob, as he is her most dedicated and hard-working student, but he routinely panics
+        when he tries to drive a boat and fails every driving test he takes. His failures often
+        result in crashes that lead to mass destruction and endanger Mrs. Puff. While she tries her
+        best to be friendly and patient with her students, Mrs. Puff finds SpongeBob\'s
+        unintentional recklessness exasperating. She is the long-standing love interest
+        and girlfriend of Mr. Krabs.
+    </string>
+
+    <string name="patrick_des">
+        Patrick Star (voiced by Bill Fagerbakke) is a pink starfish who lives under a rock and
+        wears flowered swim trunks. His most prominent character trait is his extremely low
+        intelligence. He is best friends with SpongeBob and often unknowingly encourages activities
+        that get the two into trouble. While typically unemployed throughout the series,
+        Patrick holds various short-term jobs as the storyline of each episode requires.
+        He is generally slow and easy-going but can sometimes get aggressive,
+        much like real starfish.
+    </string>
+
+    <string name="pearl_des">
+        Pearl Krabs (voiced by Lori Alan) is a teenage sperm whale and Mr. Krabs daughter.
+        She wants to fit in with her fish peers, but finds this impossible to do because of the
+        large size inherent to her species. She will inherit the Krusty Krab from her father when
+        she grows older, but is still in high school and does not yet have a job at the family
+        business. Pearl\'s favorite activities are working at the Bikini Bottom Mall,
+        using her father\'s credit card to buy anything that is in style, and listening to pop music.
+    </string>
+
+    <string name="plankton_des">
+         Sheldon Plankton (voiced by Mr. Lawrence) and Karen Plankton (voiced by Jill Talley)
+        are the owners of the Chum Bucket, an unsuccessful restaurant located across the street
+        from the Krusty Krab. Their business is a commercial failure because they sell mostly
+        inedible foods made from chum. Plankton is a small planktonic copepod and the
+        self-proclaimed archenemy of Mr. Krabs. He is a skilled inventor and possesses a Napoleon
+        complex due to his short stature. Karen is Plankton\'s own invention, a waterproof
+        supercomputer who supplies him with evil plans to steal Krabs\' secret recipe for Krabby
+        Patties. She is married to Plankton and usually takes residence in the
+        Chum Bucket laboratory.
+    </string>
+
+    <string name="sandy_des">
+        Sandy Cheeks (voiced by Carolyn Lawrence) is a squirrel from Texas who lives in an
+        air-filled glass dome and wears a diving suit to breathe underwater. Whenever any aquatic
+        creatures enter her home, they must wear helmets of water. Sandy works as a scientist,
+        explorer, and inventor. She is a rodeo champion with a number of athletic interests,
+        such as "sand-boarding" and karate. She speaks with a Southern drawl and uses typical
+        Southern slang words and phrases.
+    </string>
+
+    <string name="squidward_des">
+       Squidward Tentacles (voiced by Rodger Bumpass) is an octopus with a large nose who works as
+        a cashier at the Krusty Krab. He is SpongeBob\'s next-door neighbor with a dry, sarcastic
+        sense of humor. He believes himself to be a talented artist and musician, but nobody
+        else recognizes his abilities. He plays the clarinet and often paints self-portraits in
+        different styles, which he hangs up around his moai house. Squidward frequently voices his
+        frustration with SpongeBob, but he genuinely cares for him deep down. This has been
+        revealed in the form of sudden confessions when Squidward is in a dire situation.
+    </string>
+
+
+</resources>
